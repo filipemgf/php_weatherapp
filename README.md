@@ -2,6 +2,10 @@
 
 This PHP file is used to display weather forecast information using the OpenWeatherMap API. It grabs the weather information provided by the API and displays it in the browser.
 
+## Requirements
+1. [XAMPP](https://www.apachefriends.org/download.html) or other PHP development environments.
+2. [Composer](https://getcomposer.org/download/) dependency manager.
+
 ## Installation
 
 1. Clone this repository.
